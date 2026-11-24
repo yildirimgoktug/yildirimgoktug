@@ -27,7 +27,7 @@ Both are preprints on Preprints.org and are not peer-reviewed. Full list on [Res
 
 | Project | What it is | Result |
 |---|---|---|
-| [watchtower-patterno](https://github.com/yildirimgoktug/watchtower-patterno) | Learns once how to read a public-tender portal it has never seen, then reads it with no model call, notices when it breaks and repairs itself. MAIN AI Hackathon 2026, finalist in the Patterno track (team of 4) | 11 of 18 real portals learned; 24 of 26 recoveries after page changes |
+| [self-healing-scraper](https://github.com/yildirimgoktug/self-healing-scraper) | Learns once how to read a public-tender portal it has never seen, then reads it with no model call, notices when it breaks and repairs itself. MAIN AI Hackathon 2026, finalist in the Patterno track (team of 4) | 11 of 18 real portals learned; 24 of 26 recoveries after page changes |
 | [cartpole-dqn-generalist](https://github.com/yildirimgoktug/cartpole-dqn-generalist) | One DQN agent for CartPole pole lengths 0.4 to 1.8, five training strategies, 25 seeded runs | Reward shaping: mean test score 1,877 → 10,761 |
 | [popcorn-rag-movie-search](https://github.com/yildirimgoktug/popcorn-rag-movie-search) | Fully local RAG movie search over 10,800+ films: LlamaIndex, pgvector, Ollama (team of 4) | [Reranking experiment](https://github.com/yildirimgoktug/popcorn-rag-movie-search/tree/goktug/rerank-experiment/experiments/rerank): top-1 retrieval 36% → 80% |
 | [cooker-ai-recipe-voice-agent](https://github.com/yildirimgoktug/cooker-ai-recipe-voice-agent) | Spoken recipe recommender: Whisper, BERT intent/slot model, MARBEL dialogue manager, Prolog (team of 5) | 89.3% intent accuracy |
