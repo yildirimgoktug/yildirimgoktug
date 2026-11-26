@@ -4,7 +4,7 @@ Final-year AI student at VU Amsterdam who builds and delivers client software. T
 
 [![bouwly.nl](https://img.shields.io/badge/live-bouwly.nl-1f3a5f)](https://bouwly.nl)
 [![kubusklus.nl](https://img.shields.io/badge/live-kubusklus.nl-1f3a5f)](https://kubusklus.nl)
-[![OSION](https://img.shields.io/badge/preview-OSION%20Bouwtechniek-1f3a5f)](https://osion-website.vercel.app/en)
+[![osionbouwtechniek.nl](https://img.shields.io/badge/live-osionbouwtechniek.nl-1f3a5f)](https://www.osionbouwtechniek.nl/en/)
 [![Preprint: Vicsek flocking](https://img.shields.io/badge/preprint-Vicsek%20flocking-8a2b2b)](https://doi.org/10.20944/preprints202608.1003.v1)
 [![Preprint: phishing URLs](https://img.shields.io/badge/preprint-phishing%20URL%20detection-8a2b2b)](https://doi.org/10.20944/preprints202606.1345.v1)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-profile-00a388)](https://www.researchgate.net/profile/Goktug-Yildirim)
@@ -65,7 +65,7 @@ flowchart LR
 |---|---|---|
 | [bouwly.nl](https://bouwly.nl) | Bouwly Web Studio, the studio I do freelance web work under. One-page NL/EN site | Next.js 14 |
 | [kubusklus.nl](https://kubusklus.nl) · [code](https://github.com/yildirimgoktug/kubusklus-website) | Bilingual site for an Amsterdam renovation firm, designed, built and launched by me. Quote form with server-side validation, rate limiting and bot protection | Next.js, TypeScript, Resend, Vercel |
-| [OSION Bouwtechniek](https://osion-website.vercel.app/en) (preview, in progress) | Bilingual NL/EN site for a construction-technology firm. It has a login-protected admin panel where the client replaces site photos, manages portfolio projects with before/after pairs, reads and answers quote requests, and sees cookie-free visitor statistics | Next.js 16, TypeScript, Upstash Redis, Vercel Blob, Resend |
+| [osionbouwtechniek.nl](https://www.osionbouwtechniek.nl/en/) | Bilingual NL/EN site for an Amsterdam building-maintenance and construction firm, designed and built by me. Live on the client's own server as static pages with a PHP quote form. An earlier Next.js version also has a login-protected admin panel (site photos, before/after projects, quote requests, cookie-free visitor statistics); the panel is not part of the live site | HTML, CSS, JavaScript, PHP · Next.js 16 version: TypeScript, Upstash Redis, Vercel Blob, Resend |
 
 ## What I work with
 
